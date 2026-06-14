@@ -1,6 +1,6 @@
 # Hi there, I'm Samien Shrestha 👋
 
-A better version of this README can be found here: https://samien-shrestha-portfolio.onrender.com
+A better version of this README can be found here: https://samien-shrestha-portfolio.onrender.com and https://samien204811.github.io/MyPortfolio
 
 I'm a Computer Scientist passionate about **Artificial Intelligence**, **Embedded Systems**, **Software Engineering**, and **Applied Research**. I enjoy building systems that combine intelligent software with real-world applications—from custom language models and mobile apps to IoT automation and innovative cybersecurity concepts.
 
